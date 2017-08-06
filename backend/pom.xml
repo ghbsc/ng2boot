@@ -268,7 +268,13 @@
 		    <groupId>com.google.guava</groupId>
 		    <artifactId>guava</artifactId>
 		    <version>19.0</version>
-		</dependency>				
+		</dependency>
+		<dependency>
+		    <groupId>io.swagger</groupId>
+		    <artifactId>swagger-annotations</artifactId>
+		    <version>1.5.0</version>
+		</dependency>
+						
 	</dependencies>
 
 	<build>
